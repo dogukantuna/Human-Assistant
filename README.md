@@ -7,7 +7,7 @@ Human & Assistant is a simple library designed to make transformations on conver
 Clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/dogukantai/human-assistant.git
+git clone https://github.com/dogukantuna/human-assistant.git
 cd human-assistant
 pip install -e .
 ```

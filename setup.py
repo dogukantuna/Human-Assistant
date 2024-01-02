@@ -6,11 +6,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="human_assistant",
     version="0.0.1",
-    author="dogukantai",
+    author="dogukantuna",
     description="A simple chat template library to make transformations on Human & Assistant and Instruction datasets",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/dogukantai/human-assistant",
+    url="https://github.com/dogukantuna/human-assistant",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.10",
